@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='images/logo-blue.png'>
+  <img width="300px" src='images/logo-blue.png'>
 </p>
 
 ## Finch Studio
