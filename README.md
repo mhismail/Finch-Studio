@@ -7,6 +7,8 @@ Finch Studio is an integrated modeling environment for pharmacometricians, clini
 
 https://finchstudio.io
 
+This repository is meant to serve as a place to track issues and post discussions.
+
 ## User Manual
 https://docs.finchstudio.io
 
