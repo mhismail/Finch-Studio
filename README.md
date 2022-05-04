@@ -5,6 +5,8 @@
 ## Finch Studio
 Finch Studio is an integrated modeling environment for pharmacometricians, clinical pharmacologists, data scientists, and other team members to visualize understand, develop, and organize PK/PD models and data.
 
+https://finchstudio.io
+
 ## User Manual
 https://docs.finchstudio.io
 
